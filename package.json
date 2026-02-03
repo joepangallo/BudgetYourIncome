@@ -2,6 +2,24 @@
   "name": "budgetyourincome",
   "main": "expo-router/entry",
   "version": "1.0.0",
+  "description": "A React Native budget management app built with Expo and Firebase",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joepangallo/BudgetYourIncome.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joepangallo/BudgetYourIncome/issues"
+  },
+  "homepage": "https://github.com/joepangallo/BudgetYourIncome#readme",
+  "author": "Joe Pangallo",
+  "keywords": [
+    "budget",
+    "finance",
+    "react-native",
+    "expo",
+    "firebase",
+    "mobile-app"
+  ],
   "scripts": {
     "start": "expo start",
     "reset-project": "node ./scripts/reset-project.js",
